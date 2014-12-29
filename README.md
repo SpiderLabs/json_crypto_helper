@@ -5,7 +5,7 @@ Ruby based Burp extension for JSON Encryption/Decryption
 
 ## Install
 ```bash
-git clone https://github.com/chrisdlf/json_crypto_helper.git
+git clone https://github.com/SpiderLabs/json_crypto_helper.git
 ```
 
 It is recommended to use RVM:
@@ -27,3 +27,6 @@ JRUBY_HOME=$MY_RUBY_HOME java -XX:MaxPermSize=1G -Xmx1g -Xms1g -jar [burp_dir]/b
 * Select the json_crypto_helper.rb file.
 
 You should see your new extension showing up in the list.
+
+## Author
+Christophe De La Fuente - at gmail: chrisdlf.dev

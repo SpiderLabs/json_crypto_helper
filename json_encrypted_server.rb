@@ -1,3 +1,6 @@
+# JSON small server to test json_crypto_helper Burp extension
+# Copyright : Christophe De La Fuente - at gmail: chrisdlf.dev
+
 require "openssl"
 require 'webrick'
 require 'json'
